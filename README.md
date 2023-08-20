@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi 👋, I'm Elad Kadosh
+I have just finished my second year of Computer Science BSc. at Tel Aviv University
 
 <!--
 **Eladk3/Eladk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
