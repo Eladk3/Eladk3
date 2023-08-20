@@ -1,6 +1,8 @@
 ### Hi 👋, I'm Elad Kadosh
 
 I'm currently a 3rd-year Computer Science student at Tel Aviv University, actively seeking internship opportunities or student job positions.
+
+📫 How to reach me: elad.kadosh3@gmail.com
 <!--
 **Eladk3/Eladk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
