@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Elad Kadosh</h1>
-<h3 align="center">I'm currently a 3rd-year Computer Science student at Tel Aviv University, actively seeking internship opportunities or student job positions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eladk3&label=Profile%20views&color=0e75b6&style=flat" alt="eladk3" /> </p>
 
